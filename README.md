@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lildevinhouse
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning React.js, Gatsby
+- 💞️ I’m good at React.js, Gatsby
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on new inresting projects
 - 📫 How to reach me lildevinhouse@gmail.com
 
